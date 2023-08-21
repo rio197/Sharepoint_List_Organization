@@ -1,0 +1,12 @@
+12. In the "Formatting code" section, enter a new block of code (see below) to add a new section called "Lifecycle" and the new column "Brief Description" just before the existing section called "Other" (see also the screenshot below). 
+
+NOTE: You can change "Lifecycle" and "Brief Description" to any other new section and column that you wish to add 
+NOTE: Do not forget the comma (character) after the closing curly brace: 
+
+ { 
+
+            "displayname": "Lifecycle", 
+            "fields": [ 
+                "Brief Description" 
+            ] 
+        }, 
